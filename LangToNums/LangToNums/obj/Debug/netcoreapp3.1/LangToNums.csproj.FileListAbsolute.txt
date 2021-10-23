@@ -1,0 +1,13 @@
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.exe
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.deps.json
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.runtimeconfig.json
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.runtimeconfig.dev.json
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.dll
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\bin\Debug\netcoreapp3.1\LangToNums.pdb
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.csprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.dll
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.pdb
+C:\Users\NITRO\source\repos\IAS\LangToNums\LangToNums\obj\Debug\netcoreapp3.1\LangToNums.genruntimeconfig.cache
