@@ -6,9 +6,15 @@ namespace LangToNums
 {
 	class InputChecker
 	{
-		static string units = "eins, zwei, drei, vier, funf, sechs, sieben, acht, neun, zehn";
-		static string elevenToNineteen = "elf, zwolf, dreizehn, vierzehn, funfzehn, sechzehn, siebzehn, achtzehn, neunzehn";
-		static string tens = "zwanzig, dreibig, vierzig, funfzig, sechzig, siebzig, achtzig, neunzig";
+		static List<string> units = new List<string>
+		{ "eins", "zwei", "drei", "vier", "funf", "sechs", "sieben", "acht", "neun", "zehn" };
+
+		static List<string> elevenToNineteen = new List<string> 
+		{ "elf", "zwolf", "dreizehn", "vierzehn", "funfzehn", "sechzehn", "siebzehn", "achtzehn", "neunzehn" };
+
+		static List<string> tens = new List<string> 
+		{ "zwanzig", "dreibig", "vierzig", "funfzig", "sechzig", "siebzig", "achtzig", "neunzig" };
+
 		string input;
 		string[] wordsFromInput;		
 
@@ -21,9 +27,9 @@ namespace LangToNums
 			{
 				if (input[i] == ' ' && input[i - 1] == ' ')
 					input.Remove(i - 1, i - 1);
-			}
+			}			
 
-			wordsFromInput = input.Split(' ');
+			wordsFromInput = input.Split(' ');			
 		}		
 
 		public bool CheckInputForMistakes()
@@ -54,11 +60,8 @@ namespace LangToNums
 					return false;
 				}
 
-				if (!CheckTens(3))
-				{
-					Console.WriteLine($"Неправильные десятки: {wordsFromInput[2]} {wordsFromInput[3]} {wordsFromInput[4]}");
-					return false;
-				}
+				if (!CheckTens(3))								
+					return false;				
 
 				return true;
 			}
@@ -91,15 +94,15 @@ namespace LangToNums
 				return true;
 			}
 			
-			if (wordsFromInput.Length == 3)
-			{
-				if (!CheckTens(1))
-					return false;
-				else
+			else if (wordsFromInput.Length == 3 && wordsFromInput[1] == "und")
+			{				
+				if (CheckTens(1))
 					return true;
+				else	
+					return false;			
 			}
 			
-			if (wordsFromInput.Length == 1)
+			else if (wordsFromInput.Length == 1)
 			{
 				if (!elevenToNineteen.Contains(wordsFromInput[0]) && !units.Contains(wordsFromInput[0]) && !tens.Contains(wordsFromInput[0]))
 				{
@@ -141,21 +144,17 @@ namespace LangToNums
 
 		bool CheckElevenToNineteen(int pos) // pos - position of numeral
 		{
-			if (!(elevenToNineteen.Contains(wordsFromInput[pos])))
-			{
-				Console.WriteLine($"Неправильное число {wordsFromInput[pos]}");
-				return false;
-			}
+			if (!(elevenToNineteen.Contains(wordsFromInput[pos])))			
+				return false;			
 
 			return true;
 		}
 
 		bool CheckInputLength(int max) // max - max elements in the input
 		{
-			if (wordsFromInput.Length > max)
-			{				
+			if (wordsFromInput.Length > max)						
 				return false;
-			}
+
 			return true;
 		}		
 	}

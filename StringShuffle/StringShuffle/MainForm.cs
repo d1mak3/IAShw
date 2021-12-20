@@ -48,6 +48,7 @@ namespace StringShuffle
 		{
 			string output = String.Empty;
 			int count = 0;
+
 			if (input1.Length > input2.Length)
 			{
 				count = 0;
@@ -65,12 +66,13 @@ namespace StringShuffle
 			}
 
 			count = 0;
+
 			while (count < input2.Length)
 			{
-				output += input1[count];
-
 				if (count < input1.Length)
-					output += input2[count];
+					output += input1[count];
+				
+				output += input2[count];
 
 				++count;
 			}

@@ -19,7 +19,7 @@ namespace LangToNums
 				{
 					converter = new LangConverter(input);
 					Console.WriteLine($"Число в арабском представлении {converter.ConvertToArabic()}");
-					Console.WriteLine($"число в римском представлении {converter.ConvertToRoman()}");
+					Console.WriteLine($"Число в римском представлении {converter.ConvertToRoman()}");
 				}
 			}
 		}

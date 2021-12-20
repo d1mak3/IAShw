@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NITRO\\source\\repos\\StringShuffle\\StringShuffle\\StringShuffle.csproj": {}
+    "C:\\Users\\NITRO\\source\\repos\\IAS\\StringShuffle\\StringShuffle\\StringShuffle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NITRO\\source\\repos\\StringShuffle\\StringShuffle\\StringShuffle.csproj": {
+    "C:\\Users\\NITRO\\source\\repos\\IAS\\StringShuffle\\StringShuffle\\StringShuffle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NITRO\\source\\repos\\StringShuffle\\StringShuffle\\StringShuffle.csproj",
+        "projectUniqueName": "C:\\Users\\NITRO\\source\\repos\\IAS\\StringShuffle\\StringShuffle\\StringShuffle.csproj",
         "projectName": "StringShuffle",
-        "projectPath": "C:\\Users\\NITRO\\source\\repos\\StringShuffle\\StringShuffle\\StringShuffle.csproj",
+        "projectPath": "C:\\Users\\NITRO\\source\\repos\\IAS\\StringShuffle\\StringShuffle\\StringShuffle.csproj",
         "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NITRO\\source\\repos\\StringShuffle\\StringShuffle\\obj\\",
+        "outputPath": "C:\\Users\\NITRO\\source\\repos\\IAS\\StringShuffle\\StringShuffle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.208\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.209\\RuntimeIdentifierGraph.json"
         }
       }
     }
