@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\NITRO\\source\\repos\\IAS\\LangToNums\\LangToNums\\LangToNums.csproj",
-      "projectName": "LangToNums",
-      "projectPath": "C:\\Users\\NITRO\\source\\repos\\IAS\\LangToNums\\LangToNums\\LangToNums.csproj",
+      "projectUniqueName": "C:\\Users\\NITRO\\source\\repos\\LangToNumsOnForms\\LangToNumsOnForms\\LangToNumsOnForms.csproj",
+      "projectName": "LangToNumsOnForms",
+      "projectPath": "C:\\Users\\NITRO\\source\\repos\\LangToNumsOnForms\\LangToNumsOnForms\\LangToNumsOnForms.csproj",
       "packagesPath": "C:\\Users\\NITRO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\NITRO\\source\\repos\\IAS\\LangToNums\\LangToNums\\obj\\",
+      "outputPath": "C:\\Users\\NITRO\\source\\repos\\LangToNumsOnForms\\LangToNumsOnForms\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\NITRO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -58,6 +58,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"

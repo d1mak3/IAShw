@@ -1,0 +1,15 @@
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.csprojAssemblyReference.cache
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.Form1.resources
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.exe
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.deps.json
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.runtimeconfig.json
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.runtimeconfig.dev.json
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.dll
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\bin\Debug\netcoreapp3.1\LangToNumsOnForms.pdb
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.dll
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.pdb
+C:\Users\NITRO\source\repos\LangToNumsOnForms\LangToNumsOnForms\obj\Debug\netcoreapp3.1\LangToNumsOnForms.genruntimeconfig.cache
