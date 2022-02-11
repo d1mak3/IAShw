@@ -1,0 +1,144 @@
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.exe
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.deps.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.Form1.resources
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.exe
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.deps.json
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.dll
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\ref\first.dll
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\bin\Release\net5.0-windows\first.pdb
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.Form1.resources
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.dll
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\ref\first.dll
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.pdb
+E:\study\mirea\3\1\Технологии информационного взаимодействия компонент ИАС\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.exe
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.deps.json
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\Downloads\Саша\first\bin\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.Form1.resources
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\Downloads\Саша\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.exe
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.deps.json
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\Downloads\Миша\first\bin\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.Form1.resources
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.dll
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\ref\first.dll
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.pdb
+C:\Users\Mikhail\Downloads\Миша\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.Form1.resources
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.exe
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.deps.json
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\Лиза\first\bin\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\Лиза\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.exe
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.deps.json
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\first\bin\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.Form1.resources
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.exe
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.deps.json
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\1\франзузский - старые\first\bin\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.Form1.resources
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.dll
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\ref\first.dll
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.pdb
+d:\Обмен\Корягин\1\франзузский - старые\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.exe
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.deps.json
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.runtimeconfig.json
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.runtimeconfig.dev.json
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.dll
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\ref\first.dll
+C:\Users\NITRO\source\repos\IAS\first\bin\Release\net5.0-windows\first.pdb
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.csproj.AssemblyReference.cache
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.Form1.resources
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.csproj.GenerateResource.cache
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.dll
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\ref\first.dll
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.pdb
+C:\Users\NITRO\source\repos\IAS\first\obj\Release\net5.0-windows\first.genruntimeconfig.cache

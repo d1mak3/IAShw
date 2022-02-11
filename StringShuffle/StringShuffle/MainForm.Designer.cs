@@ -41,7 +41,6 @@ namespace StringShuffle
 			this.InputTextBox1.Name = "InputTextBox1";
 			this.InputTextBox1.Size = new System.Drawing.Size(272, 26);
 			this.InputTextBox1.TabIndex = 0;
-			this.InputTextBox1.Text = "Input 1";
 			this.InputTextBox1.Click += new System.EventHandler(this.InputTextBox1_Click);
 			// 
 			// InputTextBox2
@@ -50,7 +49,6 @@ namespace StringShuffle
 			this.InputTextBox2.Name = "InputTextBox2";
 			this.InputTextBox2.Size = new System.Drawing.Size(272, 26);
 			this.InputTextBox2.TabIndex = 1;
-			this.InputTextBox2.Text = "Input 2";
 			this.InputTextBox2.Click += new System.EventHandler(this.InputTextBox2_Click);
 			// 
 			// OutputLabel

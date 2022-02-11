@@ -34,11 +34,16 @@ namespace StringShuffle
 
 		private void WorkButton_Click(object sender, EventArgs e)
 		{
-			if (InputTextBox1.Text == String.Empty || InputTextBox2.Text == String.Empty)
+			if (InputTextBox1.Text == String.Empty)
 			{
-				MessageBox.Show("Одна из строк пуста");
-				InputTextBox1.Text = "input 1";
-				InputTextBox2.Text = "input 2";
+				MessageBox.Show("Первая строка пуста");
+				return;
+			}
+
+			if (InputTextBox2.Text == String.Empty)
+			{
+				MessageBox.Show("Вторая строка пуста");
+				return;
 			}
 
 			OutputLabel.Text = Shuffle(InputTextBox1.Text, InputTextBox2.Text);

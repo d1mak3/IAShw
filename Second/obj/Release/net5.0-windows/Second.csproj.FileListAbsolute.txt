@@ -1,0 +1,53 @@
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.exe
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.deps.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.runtimeconfig.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.runtimeconfig.dev.json
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\ref\Second.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\bin\Release\net5.0-windows\Second.pdb
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.Form1.resources
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.csproj.GenerateResource.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.AssemblyInfoInputs.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.AssemblyInfo.cs
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\ref\Second.dll
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.pdb
+C:\Users\Mikhail\source\repos\Технологии информационного взаимодействия компонент ИАС\Second\obj\Release\net5.0-windows\Second.genruntimeconfig.cache
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.exe
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.deps.json
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.runtimeconfig.json
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.runtimeconfig.dev.json
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.dll
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\ref\Second.dll
+C:\Users\Mikhail\Downloads\Артём\Second\bin\Release\net5.0-windows\Second.pdb
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.csproj.AssemblyReference.cache
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.Form1.resources
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.csproj.GenerateResource.cache
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.AssemblyInfoInputs.cache
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.AssemblyInfo.cs
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.dll
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\ref\Second.dll
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.pdb
+C:\Users\Mikhail\Downloads\Артём\Second\obj\Release\net5.0-windows\Second.genruntimeconfig.cache
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.exe
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.deps.json
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.runtimeconfig.json
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.runtimeconfig.dev.json
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.dll
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\ref\Second.dll
+d:\Обмен\Корягин\Лиза\Second\bin\Release\net5.0-windows\Second.pdb
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.csproj.AssemblyReference.cache
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.Form1.resources
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.csproj.GenerateResource.cache
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.GeneratedMSBuildEditorConfig.editorconfig
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.AssemblyInfoInputs.cache
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.AssemblyInfo.cs
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.csproj.CoreCompileInputs.cache
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.dll
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\ref\Second.dll
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.pdb
+d:\Обмен\Корягин\Лиза\Second\obj\Release\net5.0-windows\Second.genruntimeconfig.cache
