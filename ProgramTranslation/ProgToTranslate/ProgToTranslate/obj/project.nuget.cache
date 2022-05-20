@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhC24TYLWm6eX+1VCVOsRNFqx5OJQVyb3DZUxBLNEAa948LBf06bMAgT8d6DpxWiKS3nJwc0GQ7QFRchPC2PsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO\\source\\repos\\IAS\\ProgramTranslation\\ProgToTranslate\\ProgToTranslate\\ProgToTranslate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

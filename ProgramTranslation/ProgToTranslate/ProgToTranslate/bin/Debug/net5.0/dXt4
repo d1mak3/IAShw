@@ -1,0 +1,5 @@
+{
+  "projects": "[{\"Id\":0,\"Title\":\"Test\",\"Description\":\"\",\"AccessToken\":\"1234\",\"UsersInProject\":[{\"Id\":0,\"Login\":\"admin\",\"Password\":\"1234\"}]}]",
+  "tasks": "[{\"Id\":0,\"Title\":\"Test\",\"Description\":\"Test\",\"CreationDate\":\"2022-03-15T13:10:22.0308886Z\",\"ExpirationDate\":\"2022-03-15T21:00:00Z\",\"Status\":\"deleted\",\"ProjectId\":0,\"RequesterLogin\":\"admin\",\"CarryLogin\":\"admin\"}]",
+  "users": "[{\"Id\":0,\"Login\":\"admin\",\"Password\":\"1234\"}]"
+}
